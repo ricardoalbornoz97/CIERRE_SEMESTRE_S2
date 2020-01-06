@@ -32,7 +32,7 @@ Porcentajes_incluye_neutros<-
 c(negativos/TOTAL,positivos/TOTAL,neutros/TOTAL)
 Porcentajes_no_neutros<-c(negativos/(TOTAL-neutros),positivos/(TOTAL-neutros))
 
-###EJERCICIO Nº4###
+###EJERCICIO Nº4 & 5###
 Cartas_selecc=sample(c("A",2:10,"J","Q","K"),31,replace=TRUE)
 set.seed(31)
 Cuenta<-0
