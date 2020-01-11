@@ -27,3 +27,5 @@ Primero creé una lista de elementos aleatorios que contenían las 13 cartas de 
 Al emplear el comando set.seed() a lo anterior, se logra que la lista de cartas seleccionadas sea replicable, por lo que si la lista no cambia, los porcentajes tampoco cambiarán, sin importar el usuario que ejecute los comandos.
 
 ###Ejercicio nº6##########
+
+Busqué dos noticias sobre la restricción de la rendición de la PSU a Victor Chanfreau por parte del MINEDUC, de dos diarios distintos, estos son CNN Chile y La Izquierda diario; el primero informa desde la perspectiva de lo legal, y que según yo, se muestra a favor, y el segundo desde una perspectiva más política, y que según pienso, se muestra en contra de la medida. Copié ambas noticias a un Word, y con la herramienta de "buscar" comencé a contar ciertas palabras que yo consideré relevantes. Fue de esa forma que pude construír una base de datos en excel y luego importarla a R.
